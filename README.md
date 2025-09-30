@@ -1,4 +1,4 @@
-# 🔐 DES, RSA & RC4 Encryption Tool
+# 🔐 Encryption and Decryption App
 
 A comprehensive desktop application providing multiple encryption and decryption methods with a user-friendly graphical interface. Built with Python and Tkinter, this tool offers both educational and practical cryptographic capabilities for secure data protection.
 
