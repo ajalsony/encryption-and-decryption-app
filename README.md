@@ -41,7 +41,7 @@ A comprehensive desktop application providing multiple encryption and decryption
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/encryption-tool.git
+git clone https://github.com/yourusername/encryption and decryption app.git
 cd encryption-tool
 
 # Install dependencies
